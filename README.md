@@ -1,3 +1,10 @@
+# AVISO
+- Este projeto não é open-source, verifique a [licença](https://github.com/Hsyst/hps/blob/main/LICENSE.md) antes de executar ou replicar
+
+---
+
+---
+
 # 📘 Manual do Usuário – HSDCM
 
 *HPS Surface and Desktop Compatibility Module*
