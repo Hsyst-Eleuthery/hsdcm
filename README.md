@@ -24,7 +24,7 @@ O que é o HSDCM?
 ## 📥 Download
 
 Baixe a versão mais recente em:
-`https://github.com/Hsyst/hsdcm/releases`
+`https://github.com/Hsyst-Eleuthery/hsdcm/releases`
 
 Arquivos típicos nas releases:
 
