@@ -1,3 +1,7 @@
+# Este projeto foi descontinuado!
+Com a introdução do HPS v4.0.0, agora este projeto está sendo distribuído no respositório do HPS.
+- Para acessar, [Clique aqui!](https://github.com/Hsyst-Eleuthery/hps)
+
 # AVISO
 - Este projeto não é open-source, verifique a [licença](https://github.com/Hsyst-Eleuthery/hsdcm/blob/main/LICENSE.md) antes de executar ou replicar
 
